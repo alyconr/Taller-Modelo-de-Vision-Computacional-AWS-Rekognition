@@ -27,7 +27,7 @@ En nuestro caso, la CNN aprenderá a distinguir entre tornillos normales y defec
 4.  [Configuración de Permisos](#4-configuraci%C3%B3n-de-permisos)
 5.  [Entrenamiento del Modelo](#5-entrenamiento-del-modelo)
 6.  [Inicio del Modelo](#6-inicio-del-modelo)
-7.  [Conclusión](#7-conclusión)
+7.  [Uso del Modelo](#7-uso-del-modelo)
 
 ## Pasos del Taller
 
@@ -101,6 +101,10 @@ Nota: El tiempo estimado de entrenamiento es de aproximadamente 30 minutos.
    <img src="assets/Imagen23.png">
 
    Al completar este taller, habrá creado y entrenado un modelo de visión computacional capaz de clasificar imágenes de tornillos. Este proceso demuestra cómo AWS Rekognition simplifica el desarrollo y despliegue de soluciones de visión por computadora, permitiendo a los desarrolladores aprovechar el poder del aprendizaje profundo sin necesidad de experiencia previa en el campo.
+
+### 7. Uso del Modelo
+
+Para aprender cómo utilizar el modelo entrenado, consulte el notebook [Uso_Del_Modelo_Visual.ipynb](Uso_Del_Modelo_Visual.ipynb). Este notebook proporciona ejemplos detallados y código para interactuar con el modelo de visión computacional que ha entrenado.
 
 ## Conclusión
 
