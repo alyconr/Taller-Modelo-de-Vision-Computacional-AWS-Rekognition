@@ -26,6 +26,8 @@ En nuestro caso, la CNN aprenderá a distinguir entre tornillos normales y defec
 3.  [Importación del Dataset](#3-importaci%C3%B3n-del-dataset)
 4.  [Configuración de Permisos](#4-configuraci%C3%B3n-de-permisos)
 5.  [Entrenamiento del Modelo](#5-entrenamiento-del-modelo)
+6.  [Inicio del Modelo](#6-inicio-del-modelo)
+7.  [Conclusión](#7-conclusión)
 
 ## Pasos del Taller
 
@@ -84,6 +86,22 @@ En nuestro caso, la CNN aprenderá a distinguir entre tornillos normales y defec
 Nota: El tiempo estimado de entrenamiento es de aproximadamente 30 minutos.
 <img src="assets/Imagen19.png">
 
+### 6. Inicio del Modelo
+
+1. En Amazon Rekognition, vaya a la sección "Etiquetas personalizadas" y seleccione "Use Custom Labels".
+2. Haga clic en la opción "Projects".
+   <img src="assets/Imagen20.png">
+3. Seleccione el proyecto "modelo_visual_bda_jac".
+   <img src="assets/Imagen21.png">
+4. En la pestaña "Use model", haga clic en "Iniciar".
+   <img src="assets/Imagen22.png">
+   Nota: El tiempo estimado para iniciar el modelo es de aproximadamente 30 minutos.
+
+5. Para conectarse al modelo, necesitará su nombre. Desde la sección "Use your model", copie el nombre del modelo.## Conclusión
+   <img src="assets/Imagen23.png">
+
+   Al completar este taller, habrá creado y entrenado un modelo de visión computacional capaz de clasificar imágenes de tornillos. Este proceso demuestra cómo AWS Rekognition simplifica el desarrollo y despliegue de soluciones de visión por computadora, permitiendo a los desarrolladores aprovechar el poder del aprendizaje profundo sin necesidad de experiencia previa en el campo.
+
 ## Conclusión
 
-Al completar este taller, habrá creado y entrenado un modelo de visión computacional capaz de clasificar imágenes de tornillos. Este proceso demuestra cómo AWS Rekognition simplifica el desarrollo y despliegue de soluciones de visión por computadora, permitiendo a los desarrolladores aprovechar el poder del aprendizaje profundo sin necesidad de experiencia previa en el campo.
+Al completar este taller, habrá creado, entrenado e iniciado un modelo de visión computacional capaz de clasificar imágenes de tornillos. Este proceso demuestra cómo AWS Rekognition simplifica el desarrollo y despliegue de soluciones de visión por computadora, permitiendo a los desarrolladores aprovechar el poder del aprendizaje profundo sin necesidad de experiencia previa en el campo.
