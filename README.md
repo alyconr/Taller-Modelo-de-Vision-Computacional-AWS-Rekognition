@@ -119,3 +119,13 @@ Es importante resaltar que, una vez que haya terminado de usar el modelo, debe a
 5.  Considere eliminar los datasets y buckets de S3 asociados si ya no los necesita.
 
 Siguiendo estas prácticas de limpieza, podrá experimentar con AWS Rekognition de manera efectiva y económica, asegurándose de que solo paga por los recursos que realmente necesita y utiliza.
+
+## Autores
+
+Este taller fue desarrollado por:
+
+- Jeysson Aly Contreras
+  - LinkedIn: [https://www.linkedin.com/in/jeysson-aly-contreras/](https://www.linkedin.com/in/jeysson-aly-contreras/)
+  - GitHub: [https://github.com/alyconr](https://github.com/alyconr)
+
+Si tienes preguntas sobre este taller o estás interesado en colaborar en proyectos similares, no dudes en conectarte a través de LinkedIn o revisar mis proyectos en GitHub.
