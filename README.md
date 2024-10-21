@@ -109,3 +109,13 @@ Para aprender cómo utilizar el modelo entrenado, consulte el notebook [Uso_Del_
 ## Conclusión
 
 Al completar este taller, habrá creado, entrenado e iniciado un modelo de visión computacional capaz de clasificar imágenes de tornillos. Este proceso demuestra cómo AWS Rekognition simplifica el desarrollo y despliegue de soluciones de visión por computadora, permitiendo a los desarrolladores aprovechar el poder del aprendizaje profundo sin necesidad de experiencia previa en el campo.
+
+Es importante resaltar que, una vez que haya terminado de usar el modelo, debe asegurarse de detenerlo y eliminarlo para evitar incurrir en costos innecesarios. AWS cobra por el tiempo que el modelo está desplegado y en ejecución, incluso si no se está utilizando activamente. Siga estos pasos para eliminar el modelo de manera segura:
+
+1.  Vaya a la consola de Amazon Rekognition.
+2.  Navegue hasta su proyecto y modelo.
+3.  Detenga el modelo si está en ejecución.
+4.  Elimine el modelo y, si ya no lo necesita, también el proyecto.
+5.  Considere eliminar los datasets y buckets de S3 asociados si ya no los necesita.
+
+Siguiendo estas prácticas de limpieza, podrá experimentar con AWS Rekognition de manera efectiva y económica, asegurándose de que solo paga por los recursos que realmente necesita y utiliza.
