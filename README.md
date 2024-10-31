@@ -1,3 +1,5 @@
+[Web Scraping with JavaScript and Node.js: A Comprehensive Guide for 2024](https://uploadsblog.s3.us-east-1.amazonaws.com/uploads/1730390607239.png)
+
 # Taller de Entrenamiento de Modelo de Visión Computacional en AWS Rekognition
 
 ## Introducción
